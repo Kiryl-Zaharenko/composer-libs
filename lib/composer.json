@@ -1,0 +1,20 @@
+{
+    "name": "zaharenko/calchelper",
+    "description": "test composer package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zaharenko\\CalcHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zaharenko"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^8.1"
+    }
+}
