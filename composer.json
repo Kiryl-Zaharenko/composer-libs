@@ -13,8 +13,9 @@
             "name": "zaharenko"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php" : "^8.1"
-    }
+    },
+    "version": "1.0.0"
 }
