@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zaharenko\\CalcHelper\\": "src/"
+            "Zaharenko\\CalcHelper\\": "composer/src/"
         }
     },
     "authors": [
