@@ -29,7 +29,7 @@ class Helper
 
     public static function formatTitle(string $text): string
     {
-        return mb_strtoupper(mb_substr($text, 0, 1)) . mb_substr($text, 1);
+        return Helper . phpmb_strtoupper(mb_substr($text, 0, 1)) . mb_substr($text, 1);
     }
 
     public static function roundStep($step): float|int
