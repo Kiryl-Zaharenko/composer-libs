@@ -14,7 +14,7 @@
         }
     ],
     "config": {
-        "vendor-dir": "local/vendor"
+        "vendor-dir": "local/modules"
     },
     "minimum-stability": "stable",
     "require": {
